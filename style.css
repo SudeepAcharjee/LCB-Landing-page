@@ -141,12 +141,8 @@ ul{
 /* TEXT
 =========================== */
 .text{
-    position: absolute;
-    top: 40%;
-    left: 51.1%;
-    transform: translate(-50%, -50%);
-    white-space: nowrap;
-    width: 1000px;
+   padding-left: 20%;
+   padding-top: 10%;
 }
 
 .text h1{
