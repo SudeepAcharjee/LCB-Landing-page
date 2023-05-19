@@ -300,10 +300,10 @@ ul{
     
     footer {
         font-size: 10px;
-        padding: 10px;
+        padding: 0px;
         position: fixed;
         top: 0;
-        right: 25;
+        right: 30;
         text-align: right;
       }
       .media ul li {
