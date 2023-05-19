@@ -67,6 +67,9 @@ animation-fill-mode: backwards;
     transform: translateY(0px);
 }
 }
+a {
+    color: #020202; /* Change this to the desired color */
+  }
 
 footer {
    
