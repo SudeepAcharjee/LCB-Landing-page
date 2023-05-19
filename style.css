@@ -21,7 +21,7 @@ ul{
 }
 
 .bg{
-    position: absolute;
+    position: relative;
     left: 0%;
     width: 0%;
     height: 100%;
