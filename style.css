@@ -226,3 +226,50 @@ ul{
     height: 200px;
     width: 200px;
 }
+
+
+@media only screen and (min-width: 1000px) and (max-width: 1270px){
+  .text{
+    padding-top: 20%;
+  }
+  .text h1{
+    font-size: 60px;
+    letter-spacing: 2px;
+    position: relative;
+    overflow: hidden;
+  }
+  .text p{
+    font-size: 25px;
+    letter-spacing: 2px;
+    position: relative;
+    overflow: hidden;
+  }
+}
+@media only screen and (min-width: 800px) and (max-width: 1000px){
+    .text{
+        padding-top: 35%;
+      }
+      .text h1{
+        font-size: 45px;
+        font-weight: 900;
+        letter-spacing: 4px;
+        position: relative;
+        overflow: hidden;
+        height: 100px;
+        width: 100%;
+      }
+      .text h1 label{
+        color: #fff;
+    }
+    .text h1 .text-bar{
+    position: absolute;
+}
+.text p{
+    font-size: 20px;
+    letter-spacing: 2px;
+    position: relative;
+    overflow: hidden;
+  }
+
+}
+@media only screen and (min-width: 500px) and (max-width: 800px){
